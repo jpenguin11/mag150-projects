@@ -3,3 +3,19 @@
 
 3-D shapes in wis theme 
 [click for code ](https://github.com/jpenguin11/mag150-projects/blob/gh-pages/s22magd150lab10_woods._2022_04_22_17_51_03/sketch.js)
+
+## music and broken mirror
+music and video 
+[click for code](sketch.js)
+
+## tv project
+tv with working buttions
+[click for code](sketch.js)
+
+## pizzia project
+pizza project
+[click for code]()https://github.com/jpenguin11/mag150-projects/tree/gh-pages/s22magd150lab04_woods_2022_04_22_17_54_38
+
+##house
+house
+[click for cod](https://github.com/jpenguin11/mag150-projects/blob/gh-pages/s22magd150lab01_woods_2022_04_22_18_32_59/sketch.js)
